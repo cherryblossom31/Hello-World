@@ -1,4 +1,5 @@
 # Hello World
 computer lesson
 
-pink flowers
+Jaimelin Mah
+July 4, 2022
